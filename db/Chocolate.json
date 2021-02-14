@@ -1,0 +1,44 @@
+[
+  {
+    "id": "c01",
+    "name": "Шоколад «Беловежская пуща»",
+    "description": "Элит, 200 г.",
+    "price": 390,
+    "image": "img/Chocolate/Chocolate.jpeg"
+  },
+  {
+    "id": "c02",
+    "name": "Конфета «Любимая Аленка»",
+    "description": "35 г.",
+    "price": 520,
+    "image": "img/Chocolate/Candy.jpg"
+  },
+  {
+    "id": "c03",
+    "name": "Шоколадное яйцо «Киндер Сюрприз»",
+    "description": "В ассортименте, 20 г.",
+    "price": 490,
+    "image": "img/Chocolate/ChocolateEgg.jpg"
+  },
+  {
+    "id": "c04",
+    "name": "Конфеты «Пчёлка-чемпионка Фруттис»",
+    "description": "1 кг., фасовка 0.3 - 0.4 кг.",
+    "price": 140,
+    "image": "img/Chocolate/Marmalade.jpg"
+  },
+  {
+    "id": "c05",
+    "name": "Жевательные конфеты «Maoam mao»",
+    "description": "Микс, 250 г.",
+    "price": 490,
+    "image": "img/Chocolate/GummyBears.jpg"
+  },
+  {
+    "id": "gl06",
+    "name": "Карамель «Фрутомелька»",
+    "description": "Клубника и сливки, 200 г.",
+    "price": 530,
+    "image": "img/Chocolate/Caramel.jpg"
+  }
+]

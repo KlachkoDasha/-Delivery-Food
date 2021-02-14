@@ -1,0 +1,44 @@
+[
+  {
+    "id": "b01",
+    "name": "Хлеб «Купалаўскi»",
+    "description": "Нарезанный, 450 г.",
+    "price": 638,
+    "image": "img/Confectionery/Bread.jpg"
+  },
+  {
+    "id": "b02",
+    "name": "Багет «Пинский супер»",
+    "description": "300 г.",
+    "price": 693,
+    "image": "img/Confectionery/Baguette.jpg"
+  },
+  {
+    "id": "b03",
+    "name": "Торт «Шоколадный сюрприз»",
+    "description": "Новый, 1 кг.",
+    "price": 705,
+    "image": "img/Confectionery/Cake.jpg"
+  },
+  {
+    "id": "b04",
+    "name": "Печенье сахарное «Слодыч»",
+    "description": "С шоколадом, 390 г.",
+    "price": 759,
+    "image": "img/Confectionery/Biscuits.jpeg"
+  },
+  {
+    "id": "b05",
+    "name": "Мини-рулеты «Яшкино»",
+    "description": "С маком, 35 г.",
+    "price": 475,
+    "image": "img/Confectionery/Rolls.jpg"
+  },
+  {
+    "id": "b06",
+    "name": "Сладости мучные «Крендель»",
+    "description": "90 г.",
+    "price": 649,
+    "image": "img/Confectionery/Pretzel.jpg"
+  }
+]

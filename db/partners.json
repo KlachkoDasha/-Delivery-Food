@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Мясной отдел",
+    "stars": 4.5,
+    "kitchen": "Мясо, рыба, птица, колбасные изделия",
+    "image": "img/MeatSection/MeatSection.jpg",
+    "products": "MeatSection.json"
+  },
+  {
+    "name": "Овощи и фрукты",
+    "stars": 4.3,
+    "kitchen": "Помидоры, перец, картофель, мандарины, яблоки, бананы",
+    "image": "img/Vegetables/Vegetables.jpg",
+    "products": "Vegetables.json"
+  },
+  {
+    "name": "Молочные продукты",
+    "stars": 4.4,
+    "kitchen": "Молоко, яйца, творог, йогурты, сыры, масла",
+    "image": "img/DairyDepartment/DairyDepartment.jpeg",
+    "products": "DairyDepartment.json"
+  },
+  {
+    "name": "Напитки",
+    "stars": 4.1,
+    "kitchen": "Лимонад, газированная вода, соки, кофе, чай",
+    "image": "img/Drinks/Drinks.jpg",
+    "products": "Drinks.json"
+  },
+  {
+    "name": "Сладости",
+    "stars": 4.7,
+    "kitchen": "Шоколад, конфеты, леденцы, шоколадные яйца, мармелад",
+    "image": "img/Chocolate/Chocolate.jpg",
+    "products": "Chocolate.json"
+  },
+  {
+    "name": "Кондитерские изделия",
+    "stars": 4.6,
+    "kitchen": "Xлеб, батон, крендель, торты, печенье, рулеты",
+    "image": "img/Confectionery/confectionery.jpg",
+    "products": "Bread.json"
+  }
+]

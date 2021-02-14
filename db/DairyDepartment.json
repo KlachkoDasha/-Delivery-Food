@@ -1,0 +1,44 @@
+[
+  {
+    "id": "dd01",
+    "name": "Яйцо куриное С-2",
+    "description": "10 шт.",
+    "price": 685,
+    "image": "img/DairyDepartment/Egg.jpg"
+  },
+  {
+    "id": "dd02",
+    "name": "Молоко «Стары Менск»",
+    "description": "Ультрапастеризованное 1.5 %, 950 мл.",
+    "price": 693,
+    "image": "img/DairyDepartment/Milk.jpg"
+  },
+  {
+    "id": "dd03",
+    "name": "Творог «Славянские традиции»",
+    "description": "2%, 180 г.",
+    "price": 595,
+    "image": "img/DairyDepartment/CottageСheese.jpg"
+  },
+  {
+    "id": "dd04",
+    "name": "Масло сливочное «Бутербродное»",
+    "description": "61.5%, 180 г.",
+    "price": 785,
+    "image": "img/DairyDepartment/Oil.jpeg"
+  },
+  {
+    "id": "dd05",
+    "name": "Продукт йогуртный «Аlpenland. Фруктовый»",
+    "description": "0.3%, 95 г.",
+    "price": 695,
+    "image": "img/DairyDepartment/Yogurt.jpg"
+  },
+  {
+    "id": "dd06",
+    "name": "-Сыр «Тильзитер Gold»",
+    "description": "45%, 1 кг., фасовка 0.3 - 0.4 кг.",
+    "price": 875,
+    "image": "img/DairyDepartment/Cheese.jpg"
+  }
+]

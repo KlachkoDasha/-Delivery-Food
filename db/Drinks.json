@@ -1,0 +1,44 @@
+[
+  {
+    "id": "d01",
+    "name": "Кофе молотый «Legend Of Columb»",
+    "description": "Classic 250 г.",
+    "price": 899,
+    "image": "img/Drinks/Coffee.jpg"
+  },
+  {
+    "id": "d02",
+    "name": "Чай черный «Царская чаша»",
+    "description": "Байховый, 30 пакетиков.",
+    "price": 408,
+    "image": "img/Drinks/Tea.jpg"
+  },
+  {
+    "id": "d03",
+    "name": "Морс «Rich»",
+    "description": "Клюквенно-виноградный, 1 л.",
+    "price": 499,
+    "image": "img/Drinks/Morse.jpg"
+  },
+  {
+    "id": "d04",
+    "name": "Квас брожения «Аліварскі квас»",
+    "description": "2л.",
+    "price": 319,
+    "image": "img/Drinks/Kvass.jpg"
+  },
+  {
+    "id": "d05",
+    "name": "Какао-напиток «Nesquik»",
+    "description": "Opti-Start, 135 г.",
+    "price": 358,
+    "image": "img/Drinks/Cocoa.jpg"
+  },
+  {
+    "id": "d06",
+    "name": "Вода питьевая «Aquale»",
+    "description": "Березинская газированная, 0.5 л.",
+    "price": 356,
+    "image": "img/Drinks/Water.jpg"
+  }
+]

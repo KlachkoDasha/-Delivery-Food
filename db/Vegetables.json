@@ -1,0 +1,44 @@
+[
+  {
+    "id": "v01",
+    "name": "Томат черри",
+    "description": "250 г.",
+    "price": 455,
+    "image": "img/Vegetables/Cherry.jpg"
+  },
+  {
+    "id": "v02",
+    "name": "Перец красный",
+    "description": "1 кг., фасовка 0.5 - 0.7 кг.",
+    "price": 455,
+    "image": "img/Vegetables/Pepper.jpg"
+  },
+  {
+    "id": "v03",
+    "name": "Картофель мытый",
+    "description": "1 кг., фасовка 2.1 - 2.5 кг.",
+    "price": 455,
+    "image": "img/Vegetables/Potatoes.jpeg"
+  },
+  {
+    "id": "v04",
+    "name": "Мандарин",
+    "description": "1 кг.",
+    "price": 455,
+    "image": "img/Vegetables/Mandarin.jpg"
+  },
+  {
+    "id": "v05",
+    "name": "Яблоко «Элиза»",
+    "description": "1 кг., фасовка 1 - 1.25 кг.",
+    "price": 455,
+    "image": "img/Vegetables/Apple.jpg"
+  },
+  {
+    "id": "v06",
+    "name": "Банан",
+    "description": "1 кг., фасовка 0.8 - 1.2 кг.",
+    "price": 649,
+    "image": "img/Vegetables/Banana.jpg"
+  }
+]

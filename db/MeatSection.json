@@ -1,0 +1,44 @@
+[
+  {
+    "id": "ms01",
+    "name": "Рыба охлаждённая «Лосось»",
+    "description": "Потрошеная 1 кг., фасовка 0.6 - 1.2 кг",
+    "price": 545,
+    "image": "img/MeatSection/Fish.jpeg"
+  },
+  {
+    "id": "ms02",
+    "name": "Полуфабрикат из говядины «Чак Ролл Стейк»",
+    "description": "Охлажденный, 700 г.",
+    "price": 450,
+    "image": "img/MeatSection/Beef.jpg"
+  },
+  {
+    "id": "ms03",
+    "name": "Шейная часть свинины",
+    "description": "Охлажденная, 1 кг., фасовка 0.9 - 1.4 кг.",
+    "price": 440,
+    "image": "img/MeatSection/Pork.jpg"
+  },
+  {
+    "id": "ms04",
+    "name": "Тушка цыплёнка-бройлера «Ганна»",
+    "description": "Охлажденная, 1 кг., фасовка 1.6 - 2.2 кг.",
+    "price": 805,
+    "image": "img/MeatSection/Chick.jpg"
+  },
+  {
+    "id": "ms05",
+    "name": "Полутушка индейки потрошеная",
+    "description": "Охлажденная, 1 кг., фасовка 3.2 - 4.2 кг.",
+    "price": 440,
+    "image": "img/MeatSection/Turkey.jpg"
+  },
+  {
+    "id": "ms06",
+    "name": "Креветки королевские «Vici» в панцире",
+    "description": "1 кг., фасовка 0.3 - 0.4 кг.",
+    "price": 510,
+    "image": "img/MeatSection/Shrimp.jpg"
+  }
+]
